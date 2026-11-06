@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:seagrass",
+    "minecraft:large_fern",
+    "minecraft:fern",
+    "minecraft:bush",
+    "minecraft:jungle_leaves",
+    "minecraft:acacia_leaves",
+    "minecraft:dark_oak_leaves",
+    "minecraft:azalea_leaves",
+    "minecraft:mangrove_leaves",
+    "minecraft:birch_leaves",
+    "minecraft:oak_leaves",
+    "minecraft:spruce_leaves",
+    "minecraft:vine",
+    "minecraft:cactus",
+    "minecraft:azalea",
+    "minecraft:moss_block",
+    "minecraft:moss_carpet",
+    "minecraft:lily_pad",
+    "minecraft:big_dripleaf",
+    "minecraft:small_dripleaf",
+    "minecraft:bamboo"
+  ]
+}

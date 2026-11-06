@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "btl-more-dye-mixing",
+	"version": "0",
+	"name": "BTL More Dye Mixing",
+	"description": "You can mix more dyes now. And craft stuff for dye instead of smelting",
+	"authors": [
+		"battlestickk"
+	],
+    "contact":
+	{
+		"homepage": "https://modrinth.com/datapack/btl-more-dye-mixing"
+	},
+	"license": "CC0-1.0",
+	"icon": "icon.png",
+	"environment": "*",
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
