@@ -7,7 +7,7 @@
 	"authors": [
 		"battlestickk"
 	],
-    "contact":
+	"contact":
 	{
 		"homepage": "https://modrinth.com/datapack/btl-more-dye-mixing"
 	},
@@ -16,7 +16,7 @@
 	"environment": "*",
 	"depends": {
 		"fabricloader": ">=0.20.1",
-		"minecraft": "~26.2",
+		"minecraft": ">=1.21.5",
 		"java": ">=25",
 		"fabric-api": "*"
 	}

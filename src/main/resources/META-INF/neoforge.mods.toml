@@ -5,11 +5,13 @@ license = 'CC0-1.0'
 showAsResourcePack = false
 mods = [
 	{
-modId = 'btl-more-dye-mixing',
-version = '0', displayName = 'BTL More Dye Mixing',
-description = 'Increases the crafting recipe output of Trapdoors to be more consistent with Doors.',
-logoFile = 'icon.png', 
-updateJSONURL = '',
-credits = '', authors = 'battlestickk',
-displayURL = 'https://modrinth.com/datapack/btl-more-dye-mixing' },
+		modId = 'btl-more-dye-mixing',
+		version = '0',
+		displayName = 'BTL More Dye Mixing',
+		description = 'You can mix more dyes now. And craft stuff for dye instead of smelting',
+		logoFile = 'icon.png',
+		updateJSONURL = '',
+		credits = '', authors = 'battlestickk',
+		displayURL = 'https://modrinth.com/datapack/btl-more-dye-mixing'
+	},
 ]
